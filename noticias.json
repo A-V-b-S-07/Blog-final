@@ -1,0 +1,24 @@
+{
+    "noticias": [
+        {
+            "id": 1,
+            "titulo": "Aula de PP - Linguagem",
+            "conteudo": "Texto"
+        },
+        {
+            "id": 2,
+            "titulo": "Aula de PP - T\u00c3\u00a9cnico",
+            "conteudo": "Texto"
+        },
+        {
+            "id": 3,
+            "titulo": "",
+            "conteudo": ""
+        },
+        {
+            "id": 4,
+            "titulo": "Alunos do Senac v\u00e3o ao Museu da PUC",
+            "conteudo": "Caetano e Agnes n\u00e3o puderam ir, pois perderam o \u00f4nibus. Agnes vai \u00e0 Argentina, porque \u00e9 chique e n\u00e3o deve nada a ningu\u00e9m. Caetano \u00e9 pobre, vai viajar a Sapucaia."
+        }
+    ]
+}

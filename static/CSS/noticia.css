@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+body{
+    background-color: lightblue;
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: #FB829D;
+    height: 15vh;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 20px;
+    align-items: center;
+}
+
+.no{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Playfair Display SC', serif;
+    font-size: 40px;
+}
+
+.titulo{
+    font-size: 25px;
+}
+
+a{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.sessao__cadastrar {
+    background: linear-gradient(#FB829D,  lightblue);
+    height: 20vh;
+    padding: 2vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 25px;
+}
+
+h1 {
+    font-size: 2vw;
+    color: white;
+    text-shadow: 4px 3px 6px black;
+}
+
+form {
+    margin-top: 3vh;
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    width: 20vw;
+    flex-direction: column;
+    gap: 2px;
+}
+
+input{
+    height: 3vh;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+}
+
+

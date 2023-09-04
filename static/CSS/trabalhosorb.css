@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+body{
+    background-color: lightblue;
+
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.trabalho{
+    justify-content: center;
+
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Playfair Display SC', serif;
+    font-size: 20px;
+
+}
+
+
+body{
+    background-color: lightblue;;
+ }
+ header{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Playfair Display SC', serif;
+    font-size: 15px;
+
+     background-color:  rgb(253, 121, 154);
+     height: 20vh;
+     margin-top: 20px;
+     background-color:  rgba(253, 121, 154, 0.559);
+    
+ }
+ .ros{
+     margin-top: 50px;
+ }
+ .cabeçalho{
+     margin-left: 20px;
+     display: flex;
+     font-size: 20px;
+ }
+ 
